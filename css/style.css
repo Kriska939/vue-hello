@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(151, 96, 158);
+}
+
+h1 {
+    text-align: center; 
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 55px;
+}
