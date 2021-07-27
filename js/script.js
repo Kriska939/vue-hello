@@ -14,7 +14,8 @@ Aggiungere alla pagina un’immagine, la cui sorgente derivi anch'essa dai data 
 const app = new Vue({
     el: "#root",
     data: {
-        message: "Hello, Vue!"
+        message: "Hello, Vue!",
+        src: "./img/imageVue.jpg"
     }
 }
 
